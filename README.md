@@ -1,7 +1,6 @@
 # potato-fungi-classifier
 
 Model: "sequential_3"
-Link to pretrained mdoel: https://drive.google.com/file/d/1JvezsjRmBPSfY1_-pEF2L2Fgqp8XmcZB/view?usp=sharing
 _________________________________________________________________
  Layer (type)                Output Shape              Param #   
 =================================================================
